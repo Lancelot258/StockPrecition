@@ -1,2 +1,6 @@
 # StockPrecition
-Stock data used to study ML
+## study purpose
+### 3/4/2025
+- realised randomforest
+- realised LSTM(Long short-term memory)
+
